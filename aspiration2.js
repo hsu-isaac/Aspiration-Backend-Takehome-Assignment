@@ -37,8 +37,6 @@ their difference is
 
 {{1: 1}} */
 
-//[{1:2}, {2:1}]
-
 class DoubleSet {
   constructor(input) {
     let inputFormatted = {}
